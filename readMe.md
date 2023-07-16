@@ -9,5 +9,5 @@ I try to use html, css and bootstrap to make my personal CV.
 
 ## Reference
 
-To setup html page to print and display properly in A4 size. 
+To setup html page to print and display properly in A4 size. \
 https://stackoverflow.com/questions/3341485/how-to-make-a-html-page-in-a4-paper-size-pages
